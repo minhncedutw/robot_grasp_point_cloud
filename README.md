@@ -14,13 +14,13 @@
 
 ## Meta
 
-NGUYEN CONG MINH – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+NGUYEN CONG MINH – [@Facebook](https://www.facebook.com/minhnc.social) – minhnc.edu.tw@gmail.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/minhncedutw/robot_grasp_point_cloud](https://github.com/minhncedutw)
 
 
 
-## Template from [Dan Bader](https://dbader.org/blog/write-a-great-readme-for-your-github-project)
+### Template from [Dan Bader](https://dbader.org/blog/write-a-great-readme-for-your-github-project)
 
