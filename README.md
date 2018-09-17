@@ -22,5 +22,5 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 
 
-### Template from [Dan Bader](https://dbader.org/blog/write-a-great-readme-for-your-github-project)
+### [Template](https://github.com/dbader/readme-template) from [Dan Bader](https://dbader.org/blog/write-a-great-readme-for-your-github-project)
 
